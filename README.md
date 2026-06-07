@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maen Odeh</h1>
 
 <h3 align="center">
-Computer Science & Applied Computing Graduate | .NET Developer
+ Applied Computing Graduate | .NET Developer | IT Support Specialist
 </h3>
 
 <p align="center">
